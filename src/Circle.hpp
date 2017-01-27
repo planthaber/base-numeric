@@ -1,5 +1,6 @@
 #pragma once
 #include <base/Eigen.hpp>
+#include <vector>
 
 namespace numeric
 {
